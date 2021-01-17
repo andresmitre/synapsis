@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--theultimatetest",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/80f53246-463a-4cba-9e87-374ea0d14fbe/resourceGroups/Synapse/providers/Microsoft.Synapse/workspaces/theultimatetest",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"theultimatetest-ondemand.54a9eb43-4c83-4a9a-9e00-ee3c396572b7.sql.azuresynapse.net"
+		]
+	}
+}
