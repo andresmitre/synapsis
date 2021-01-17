@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"workspaceName": {
+			"value": "theultimatetest"
+		},
+		"theultimatetest-WorkspaceDefaultSqlServer_connectionString": {
+			"value": ""
+		},
+		"bing-covid-19-data_sasUri": {
+			"value": ""
+		},
+		"theultimatetest-WorkspaceDefaultStorage_properties_typeProperties_url": {
+			"value": "https://dwdbadminam.dfs.core.windows.net"
+		},
+		"us-consumer-price-index_sasUri": {
+			"value": ""
+		}
+	}
+}
