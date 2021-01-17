@@ -37,8 +37,9 @@
 				"nodeCount": 3,
 				"cores": 4,
 				"memory": 28,
-				"extraHeader": null
-			}
+				"automaticScaleJobs": false
+			},
+			"sessionKeepAliveTimeout": 30
 		},
 		"cells": [
 			{
@@ -47,6 +48,13 @@
 					"print(\"hello world\")"
 				],
 				"execution_count": 1
+			},
+			{
+				"cell_type": "code",
+				"source": [
+					"print(\"jelou\")"
+				],
+				"execution_count": null
 			}
 		]
 	}
